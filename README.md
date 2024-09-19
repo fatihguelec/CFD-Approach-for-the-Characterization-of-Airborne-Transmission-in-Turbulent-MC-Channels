@@ -45,6 +45,6 @@ These findings provide a deeper understanding of the airborne transmission dynam
 
 If you use this repository or the associated dataset in your research, please cite the following paper and dataset:
 
-F. Gulec, F. Dressler and A. W. Eckford, "A Computational Approach for the Characterization of Airborne Pathogen Transmission in Turbulent Molecular Communication Channels," in IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, vol. 9, no. 2, pp. 124-134, June 2023, doi: 10.1109/TMBMC.2023.3273193.
+F. Gulec, F. Dressler and A. W. Eckford, "A Computational Approach for the Characterization of Airborne Pathogen Transmission in Turbulent Molecular Communication Channels," in IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, vol. 9, no. 2, pp. 124-134, June 2023, doi: 10.1109/TMBMC.2023.3273193. Link: https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6687308
 
-Dataset: Gulec, F., Atakan, B., & Dressler, F. (2022). "CFD Simulation Data for Airborne Pathogen Transmission." Zenodo. DOI: 10.5281/zenodo.13793238
+Dataset: Gulec, F. (2024). CFD Simulation Dataset for Airborne Pathogen Transmission in Turbulent Channels, Zenodo. Link: https://zenodo.org/records/13793238
