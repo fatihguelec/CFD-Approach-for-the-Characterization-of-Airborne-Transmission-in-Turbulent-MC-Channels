@@ -27,6 +27,9 @@ The MATLAB code included in this repository corresponds to the figures in the pa
 
 Figures 3, 4, 7-11: The MATLAB code files for each figure can be found in the repository. These files generate the plots and results as presented in the paper.
 
+Ansys Fluent always saves sampled DPM data into a single file (e.g., outlet.dpm), and when running multiple trials in a loop, it overwrites the previous file unless renamed between runs.
+file-parser.m file parses and splits a single Fluent DPM particle tracking output file into multiple trial-specific files based on flow-time discontinuities. 
+
 ## **How to Use the Code**
 
 Download the dataset from Zenodo and extract it to a folder named "Data" in the same path as the MATLAB code.
